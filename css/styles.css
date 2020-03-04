@@ -8,3 +8,7 @@ body {
     background: #cc9040;
     font: 16px/1.8 Georgia, serif;
 }
+
+h1 {
+    color: red;
+}
