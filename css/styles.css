@@ -1,0 +1,9 @@
+*, *::before, *::after {
+    /* Для всех элементов и их псевдоэлементов before и after */
+    /* Для правильного размера чтобы сразу с учетом паддингов */
+    box-sizing: border-box;
+}
+
+body {
+    background: #ccc;
+}
